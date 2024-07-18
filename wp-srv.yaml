@@ -7,7 +7,7 @@ metadata:
 spec:
   ports:
   - name: wordpress-port
-    port: 3838
+    port: 4000
     protocol: TCP
     targetPort: 80
   selector:
